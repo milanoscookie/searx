@@ -18,7 +18,7 @@ categories = ['videos', 'music', 'files']
 paging = True
 
 # search-url
-url = 'https://thepiratebay.org/'
+url = 'https://tpbproxy.online/'
 search_url = url + 'search/{search_term}/{pageno}/99/{search_type}'
 
 # piratebay specific type-definitions
